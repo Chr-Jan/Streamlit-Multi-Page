@@ -9,8 +9,8 @@ A simple multi-page web app built with Streamlit. Users can input text on the ma
 
 ### Tips
 
-to auto complete in the terminal write:
-
-streamlit run 1
-
-then press tab to auto complete the main page with the icon.
+> To autocomplete in the terminal, type:
+> 
+> `streamlit run 1`
+> 
+> Then press `Tab` to auto-complete the main page with the icon.
