@@ -1,4 +1,4 @@
-import streamlit as st
+import streamlit as st # pip install streamlit
 
 # Set page configuration
 st.set_page_config(
